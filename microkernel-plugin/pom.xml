@@ -13,4 +13,5 @@
 	<description>Plugin module for Microkernel Architecture using Spring Boot</description>
 	
 	<packaging>jar</packaging>
+	
 </project>
